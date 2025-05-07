@@ -44,4 +44,7 @@ Some functionalities include:
   - Work: user can input their commitments, like assignments, projects, personal goals, etc, and the app will map out time in the schedule for the user to make progress. Based on these timings, the app will send reminders for when the user should start working and how much time they must commit
   - Rest: Based on the amount of work done per day, and based on user preferences, the app calculates when and how long the user can rest. Rest segments would be time for the user to do any activity they choose. 
 
+## Required Resources
+
+In order to develop this project further, I will need to gather more information about how to integrate a map application to pull data about travel time, learn how to use Flask to integrate Python, and figure out how to deploy the app on mobile. 
 
