@@ -7,8 +7,14 @@ Disclaimer: at the moment, this app is still in early stages of development, and
 
 ## Backend
   1. Create venv in VSCode Terminal. 
+  2. Install Flask using pip install flask. 
   2. Run Python code. 
   3. Visit the link http://localhost:5001/plan/2025-05-06 
+
+## Frontend
+  1. While backend is still running, create an additional terminal to run frontend. 
+  2. View the live preview of the app using VSCode Preview. 
+
 # Project Abstract
 This document proposes an app designed to assist users with organization and time management. For people who struggle with executive dysfunction or have trouble budgeting time, it can be difficult to determine how to optimize schedules in a way that promotes efficiency without sacrificing mental or physical health. This app aims to alleviate instances of indecision or functional freeze by designing a calendar for the user each day. 
 
