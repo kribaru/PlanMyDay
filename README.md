@@ -1,7 +1,15 @@
 # PlanMyDay
 This app is designed to assist users with time management and organization by creating a schedule that accounts for a variety of needs.
 
-## Project Abstract
+# How to Run
+
+Disclaimer: at the moment, this app is still in early stages of development, and the app is not fully functional. 
+
+## Backend
+  1. Create venv in VSCode Terminal. 
+  2. Run Python code. 
+  3. Click the link to where the 
+# Project Abstract
 This document proposes an app designed to assist users with organization and time management. For people who struggle with executive dysfunction or have trouble budgeting time, it can be difficult to determine how to optimize schedules in a way that promotes efficiency without sacrificing mental or physical health. This app aims to alleviate instances of indecision or functional freeze by designing a calendar for the user each day. 
 
 Users can input their weekly responsibilities and commitments, or they can add links to calendars from other apps. Every morning, the app designs a schedule that takes into account preparation time, travel time, rest, health and wellness, and future projects to be completed. 
