@@ -1,0 +1,30 @@
+body {
+    font-family: poppins, sans-serif;];
+    background-color: #f0f4f8;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: auto;
+    background: rgb(217, 200, 245);
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  input[type="date"], button {
+    margin-top: 10px;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  #results {
+    margin-top: 20px;
+  }
+  
